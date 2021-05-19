@@ -1,0 +1,35 @@
+abbr{
+text-decoration: none;
+}
+nav.menu ul input{
+color: red;
+text-decoration: none;
+}
+nav.menu ul input:hover{
+color: white;
+background-color: red;
+transition: 0.5s all; 
+}
+nav ul input:hover{
+color: white;
+background-color: red;
+transition: 0.5s all; 
+}
+h2{
+color: white;
+}
+p{
+color: white;
+}
+body{
+background-color: #FB0102
+}
+a{
+text-decoration: none;
+list-style-type: none;
+}
+input.sortie:hover{
+color: white;
+background-color: red;
+transition: 0.5s all; 
+}
